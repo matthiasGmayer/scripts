@@ -1,0 +1,1 @@
+python "$SCRIPTS/connect.py"

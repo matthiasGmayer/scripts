@@ -23,6 +23,7 @@ do
 	then
 		continue
 	fi
+
 	if [ $verbose -eq 1 ]
 	then
 		echo -n $v ""
